@@ -1,4 +1,4 @@
-# Ex9 Applications of Queue - SJF
+# Ex 2E Applications of Queue - SJF
 ## DATE:06/03/2025
 ## AIM:
 To incorporate the code to calculate the Total Waiting Time and Average Waiting Time in Shortest Job First scheduling algorithm.
@@ -17,8 +17,8 @@ process.
 ```
 /*
 Program to find the Total Waiting Time and Average Waiting Time in Shortest Job First scheduling algorithm.
-Developed by: N.NAVYA SREE
-RegisterNumber: 212223040138 
+Developed by: G.MOULIDHAR
+RegisterNumber: 212223240042
 */
 #include<stdio.h> 
 int main() 
