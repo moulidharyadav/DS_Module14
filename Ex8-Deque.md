@@ -1,4 +1,4 @@
-# Ex8 Deque
+# Ex 2C Deque
 ## DATE:06/03/2025
 ## AIM:
 To write a C function to count the number of elements present in the deque.
@@ -16,8 +16,8 @@ To write a C function to count the number of elements present in the deque.
 ```
 /*
 Program to count the number of elements present in the deque
-Developed by: N.NAVYA SREE
-RegisterNumber: 212223040138 
+Developed by: G MOULIDHAR
+RegisterNumber: 212223240042
 */
 #include <stdio.h> 
 #define MAX 10 
